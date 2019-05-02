@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ab221f0-648f-46f0-8640-356fe9899a38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P01/Welcome_JAVA/student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P01/Welcome_JAVA/student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P01/cn/wolph/j/test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P01/cn/wolph/j2/test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Welcome_JAVA/java_extend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Welcome_JAVA/java_extend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wolph/j/test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/wolph/j2/test2.java" beforeDir="false" />
-    </list>
+    <list default="true" id="7ab221f0-648f-46f0-8640-356fe9899a38" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,33 +17,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/game/wolph/Dice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <element signature="e#108#109#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/game/wolph/Game.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/game/wolph/Player.java">
+        <entry file="file://$PROJECT_DIR$/src/oop_package2/TestPolym.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="606">
+              <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+              <folding>
+                <element signature="e#60#61#0" expanded="true" />
+                <element signature="e#86#87#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,15 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Jdemo_01/JAVA_BASIC.java" />
-        <option value="$PROJECT_DIR$/src/Welcome/java/JAVA_BASIC.java" />
-        <option value="$PROJECT_DIR$/src/Welcome_JAVA/JAVA_BASIC.java" />
-        <option value="$PROJECT_DIR$/src/Welcome_JAVA/Welcome.java" />
-        <option value="$PROJECT_DIR$/src/Welcome_JAVA/loop.java" />
-        <option value="$PROJECT_DIR$/src/Welcome_JAVA/variables.java" />
-        <option value="$PROJECT_DIR$/src/Welcome_JAVA/Practise.java" />
-        <option value="$PROJECT_DIR$/src/Welcome_JAVA/testconstent.java" />
-        <option value="$PROJECT_DIR$/src/Welcome_JAVA/Data_type.java" />
         <option value="$PROJECT_DIR$/src/Welcome_JAVA/logic.java" />
         <option value="$PROJECT_DIR$/src/Welcome_JAVA/TestScanner.java" />
         <option value="$PROJECT_DIR$/src/Welcome_JAVA/statements.java" />
@@ -121,6 +91,17 @@
         <option value="$PROJECT_DIR$/src/cn/game/wolph/player.java" />
         <option value="$PROJECT_DIR$/src/cn/game/wolph/Player.java" />
         <option value="$PROJECT_DIR$/src/cn/game/wolph/Game.java" />
+        <option value="$PROJECT_DIR$/src/oop_package/$package.java" />
+        <option value="$PROJECT_DIR$/src/Welcome_JAVA/Human.java" />
+        <option value="$PROJECT_DIR$/src/Welcome_JAVA/TestEncapsulationOtherpkg.java" />
+        <option value="$PROJECT_DIR$/src/oop_package/TestEncapsulation.java" />
+        <option value="$PROJECT_DIR$/src/oop_package/Encapsulation.java" />
+        <option value="$PROJECT_DIR$/src/oop_package/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/oop_package/oop_vehicle.java" />
+        <option value="$PROJECT_DIR$/src/Welcome_JAVA/oop_vehicle.java" />
+        <option value="$PROJECT_DIR$/src/oop_package2/Person4Encapsulation.java" />
+        <option value="$PROJECT_DIR$/src/oop_package2/TestPerson4.java" />
+        <option value="$PROJECT_DIR$/src/oop_package2/TestPolym.java" />
       </list>
     </option>
   </component>
@@ -166,20 +147,7 @@
               <item name="P01" type="b2602c69:ProjectViewProjectNode" />
               <item name="PROJ01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="wolph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="P01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PROJ01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Welcome_JAVA" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="P01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PROJ01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Welcome_JAVA" type="462c0819:PsiDirectoryNode" />
-              <item name="SuperUser.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="oop_package2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="P01" type="b2602c69:ProjectViewProjectNode" />
@@ -213,9 +181,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Game">
+  <component name="RunManager" selected="Application.TestPolym">
     <configuration name="Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.game.wolph.Dice" />
+      <module name="P01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_package.Encapsulation" />
       <module name="P01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -228,22 +203,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSuper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Welcome_JAVA.TestSuper" />
+    <configuration name="TestPerson4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_package2.TestPerson4" />
       <module name="P01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Welcome_JAVA.equals" />
-      <module name="P01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="oop_object" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Welcome_JAVA.oop_object" />
+    <configuration name="TestPolym" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_package2.TestPolym" />
       <module name="P01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -251,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestPolym" />
+        <item itemvalue="Application.TestPerson4" />
+        <item itemvalue="Application.Encapsulation" />
         <item itemvalue="Application.Game" />
         <item itemvalue="Application.Dice" />
-        <item itemvalue="Application.TestSuper" />
-        <item itemvalue="Application.equals" />
-        <item itemvalue="Application.oop_object" />
       </list>
     </recent_temporary>
   </component>
@@ -276,28 +244,28 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49861112" visible="true" weight="0.27038628" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49861112" weight="0.27038628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5013889" side_tool="true" weight="0.24964234" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3804213" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.21933086" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32961586" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32961586" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.21933086" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32961586" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24964234" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" weight="0.3297568" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Run" order="6" weight="0.30972818" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49861112" visible="true" weight="0.14020029" />
@@ -915,6 +883,82 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_package/Tencapsulation3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_package/TestEncapsulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_package/Encapsulation.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Welcome_JAVA/TestEncapsulationOtherpkg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_package/oop_vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_package/Vehicles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Welcome_JAVA/oop_vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_package2/TestPerson4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_package2/Person4Encapsulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_package2/TestPolym.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+          <folding>
+            <element signature="e#60#61#0" expanded="true" />
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
