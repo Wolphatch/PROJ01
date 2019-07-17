@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ab221f0-648f-46f0-8640-356fe9899a38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P01/cn/game/wolph/Dice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P01/cn/game/wolph/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/P01/cn/game/wolph/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/game/wolph/Dice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/game/wolph/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/game/wolph/Player.java" beforeDir="false" />
-    </list>
+    <list default="true" id="7ab221f0-648f-46f0-8640-356fe9899a38" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -258,7 +250,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.21933086" />
-      <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.36183396" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.36183396" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24964234" />
